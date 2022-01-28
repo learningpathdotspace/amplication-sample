@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.1",
+  "appInfo": {
+    "name": "Sample app",
+    "description": "Sample application for e-commerce",
+    "version": "4pstitie",
+    "id": "ckyx975sd146359101s625nioczg",
+    "url": "https://app.amplication.com/ckyx975sd146359101s625nioczg",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckyx975sd146359101s625nioczg",
+      "authProvider": "Jwt"
+    }
+  }
+}
